@@ -8,6 +8,7 @@ The basic code structure was adapted from the HuggingFace [Transformers](https:/
 ## 0. Preparation
 ### 0.1 Dependencies
 * PyTorch 1.4.0/1.6.0/1.8.0
+* Pytorch Lightning 0.7.6. Support for more recent versions of lightning coming up soon.
 
 ### 0.2 Data
 
